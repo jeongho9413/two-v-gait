@@ -1,0 +1,87 @@
+database_name:
+    kugait_vlp32c_2022-spring-c
+
+dist_eval:
+    1020m
+    # 102030m
+
+subject_all:  # 30/30
+    - ahn
+    - an
+    - aoki
+    - arise
+    - azumi
+    - chang
+    - danzyou
+    - fukuda
+    - hayashi
+    - itsuka
+    - kawasaki2
+    - kihara
+    - koga
+    - kurazume
+    - kuroda
+    - matsumoto
+    - morinaga
+    - nakashima
+    - nakashima2
+    - nishiura
+    - ohki
+    - ohno
+    - takenaka
+    - tamashiro
+    - tanaka
+    - tian
+    - tomoeda
+    - uno 
+    - xin
+    - yoshino
+
+
+subject_train:  # 20/30
+    - ahn
+    - an
+    - aoki
+    - arise
+    - azumi
+    - chang
+    - danzyou
+    - fukuda
+    - hayashi
+    - itsuka
+    - kawasaki2
+    - kihara
+    - koga
+    - kurazume
+    - kuroda
+    - matsumoto
+    - morinaga
+    - nakashima
+    - nakashima2
+    - nishiura
+
+subject_test:  # 10/30
+    - ohki
+    - ohno
+    - takenaka
+    - tamashiro
+    - tanaka
+    - tian
+    - tomoeda
+    - uno 
+    - xin
+    - yoshino
+
+split_TrainVal:
+    6and0 
+    # 5and1
+    # 4and2
+
+split_GalleryProbe: 
+    2and4
+    # 4and2
+
+seq_frames:
+    # 10
+    15
+    # 20
