@@ -93,4 +93,13 @@ If you find this repository useful for your work, please cite our paper:
   year    = {2023},
   paper   = {https://doi.org/10.1109/ACCESS.2023.3333037}
 }
+
+@inproceedings{sii2022_ahn,
+  title     = {2V-Gait: Gait Recognition using 3D LiDAR Robust to Changes in Walking Direction and Measurement Distance},
+  author    = {Ahn, Jeongho and Nakashima, Kazuto and Yoshino, Koki and Iwashita, Yumi and Kurazume, Ryo},
+  booktitle = {Proceedings of the IEEE/SICE International Symposium on System Integration (SII)},
+  year      = {2022},
+  pages     = {602--607},
+  paper     = {https://doi.org/10.1109/SII52469.2022.9708899}
+}
 ```
