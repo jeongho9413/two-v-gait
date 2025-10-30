@@ -1,8 +1,8 @@
 # 2VGait
 
-* This is the official implementation of our paper, **Learning Viewpoint-Invariant Features for LiDAR-Based Gait Recognition** [\[PDF\]](https://ieeexplore.ieee.org/document/10318107).
+* This is the official implementation of our paper, [**Learning Viewpoint-Invariant Features for LiDAR-Based Gait Recognition**](https://ieeexplore.ieee.org/document/10318107).
 * 2VGait is an end-to-end framework for gait recognition using 3D LiDAR, robust to variations in viewing angles and measurement distances.
-* You can also implemenet the previous version, **2V-Gait: Gait Recognition using 3D LiDAR Robust to Changes in Walking Direction and Measurement Distance** [\[PDF\]](https://ieeexplore.ieee.org/document/9708899).
+* You can also implemenet the previous version, [**2V-Gait: Gait Recognition using 3D LiDAR Robust to Changes in Walking Direction and Measurement Distance**](https://ieeexplore.ieee.org/document/9708899).
 
 
 ## Overview
